@@ -1,0 +1,79 @@
+
+HOME
+I am a passionate front-end developer with a creative flair for web designing. I thrive on staying updated with the latest design trends and coding techniques 
+to deliver exceptional user experiences. I am dedicated to solving design challenges, collaborating with cross-functional teams, and transforming visions into 
+realities.
+
+
+ABOUT ME
+I am a motivated and passionate individual with an ability to quickly learn new technologies. With a strong foundation in HTML, CSS, and JavaScript, I craft engaging and user-friendly 
+interfaces that seamlessly blend aesthetics and functionality. I thrive on staying updated with the latest design trends and coding techniques to deliver exceptional 
+user experiences. I am dedicated to solving design challenges, collaborating with cross-functional teams, and transforming visions into realities. I look forward to 
+making meaningful contributions and achieving great results.
+
+
+Professional Summary of Myself
+I am a motivated and passionate individual with an ability to quickly learn new technologies. I thrive on staying updated with the latest design trends and coding techniques 
+to deliver exceptional user experiences. I am dedicated to solving design challenges, collaborating with cross-functional teams, and transforming visions into 
+realities.I look forward to making meaningful contributions and achieving great results.
+
+
+developed an analog clock using HTML, CSS n JavaScript
+
+Relavant courseworks I have taken are Data Structures and Algorithms, Algorithm and Complexity, Software Design and Development. During the time I
+took these courses I learnt both the fundamentals of each and I did a personal project and group project as required for evaluation.
+
+Relevant Coursework
+
+    Data Structures and Algorithms
+    Algorithm and Complexity
+    Software Design and Development
+
+Key Learning Outcomes
+
+    Fundamentals of data structures and algorithms, including arrays, linked lists, stacks, queues, trees, and graphs
+    Algorithm analysis and complexity, including big O notation
+    Principles of software design and development, including object-oriented programming, design patterns, and software testing
+
+Personal and Group Projects
+
+    Developed a personal project to implement a variety of data structures and algorithms, including sorting, searching, and graph algorithms
+    Completed a group project to design and implement a software system to manage the inventory of a pharmacy retail store
+    
+    Relevant Coursework
+
+    Data Structures and Algorithms
+    Algorithm and Complexity
+    System Analysis and Design
+    Group project: Designed and implemented a software system to manage the inventory of a retail store.
+    Personal project: Implemented a variety of data structures and algorithms, including sorting, searching, and graph algorithms.
+    
+
+Relevant courseworks I have taken are Data Structures and Algorithms, Algorithm and Complexity and System Analysis and Design. I also did a personal
+project where I implemented varieties of data structures and algorithms, including sorting, searching, and graph algorithms, and I also
+collaborated on a group project where we designed and implemented a software system to manage the inventory of a pharmacy retail store as required for evaluation.
+
+
+Education Summary
+I have also completed several projects, both individual and group, that have allowed me to apply my knowledge and skills. One of my personal projects involved implementing a variety of data structures and algorithms, including sorting, searching, and graph algorithms. This project helped me to develop a deep understanding of the underlying concepts of these algorithms and how to implement them efficiently. In another project, I collaborated with a team of students to design and implement a software system to manage the inventory of a pharmacy retail store. This project required us to work together to develop a comprehensive system that met the needs of the business. My coursework and projects have given me a strong foundation in the fundamentals of computer science and software engineering. I am confident in my ability to apply my knowledge and skills to solve complex problems and develop innovative solutions.
+
+Experience Summary
+- Collaborated with stakeholders during development processes to confirm creative proposals and design best practices.
+- Conducted research to enhance critical features, elevating the overall customer experience.
+- Updated and Enhanced layouts by 30% to meet usability and performance requirements.
+- Performed user experience quality assurance testing to identify and remedy shortcomings.
+
+Education Summary Cutout
+<p>I have also completed several projects, both individual and team, that have allowed me to apply my knowledge and skills.</p>
+                            <p>One of my personal projects involved implementing a variety of data structures and algorithms, including sorting, searching, and graph algorithms.</p>
+                            <p>This project helped me to develop a deep understanding of the underlying concepts of these algorithms and how to implement them efficiently.</p>
+                            <p>In another project, I collaborated with a team of students to design and implement a software system to manage the inventory of a pharmacy retail store.</p>
+                            <p>This project required us to work together to develop a comprehensive system that met the needs of the business.</p>
+                            <p>My coursework and projects have given me a strong foundation in the fundamentals of computer science and software engineering.</p>
+ Experience Summary Cutout
+ <p>Conducted research to enhance critical features, elevating the overall customer experience.</p>
+ <p>Integrating web analytics tools to monitor user behavior and inform future improvements and enhancements.</p>
+                            <p>Utilizing web security best practices, such as HTTPS and secure cookies, to protect user data and maintain website integrity.</p>
+                            <p>Regularly communicated with clients, gathered feedback, addressed concerns, and ensured project objectives were met</p>
+                            <p>Evaluated content delivery options such as CDNs to improve website speed and reliability.</p>                            
+                            <p>Employing automated testing and continuous integration to ensure consistent quality across the project lifecycle.</p>
